@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>sprite</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>16</integer>
+    <key>ascender</key>
+    <integer>20</integer>
+    <key>descender</key>
+    <integer>-6</integer>
+    <key>capHeight</key>
+    <integer>18</integer>
+    <key>xHeight</key>
+    <integer>14</integer>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>mid</string>
+        <key>y</key>
+        <integer>7</integer>
+        <key>identifier</key>
+        <string>gl-1772319335218</string>
+      </dict>
+    </array>
+  </dict>
+</plist>
