@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="2">
-  <advance width="14"/>
+  <advance width="9"/>
     <unicode hex="00B7"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="4" y="8" type="line"/>
+      <point x="3" y="8" type="line"/>
+      <point x="3" y="7" type="line"/>
+      <point x="3" y="6" type="line"/>
+      <point x="3" y="5" type="line"/>
+      <point x="4" y="5" type="line"/>
+      <point x="5" y="5" type="line"/>
+      <point x="6" y="5" type="line"/>
+      <point x="6" y="6" type="line"/>
+      <point x="6" y="7" type="line"/>
+      <point x="6" y="8" type="line"/>
+      <point x="5" y="8" type="line"/>
+    </contour>
+  </outline>
 </glyph>
